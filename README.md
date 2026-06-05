@@ -1,0 +1,1 @@
+BlackCloud is a bleeding-edge reconnaissance tool designed for security professionals to hunt exposed cloud storage across **AWS S3**, **Google Cloud Storage**, and **Azure Blob Storage**. It goes far beyond simple bucket enumeration, offering deep policy analysis, content intelligence, takeover detection, and authenticated bypass testing.
