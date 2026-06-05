@@ -80,17 +80,8 @@ Input Domain(s)
 
 ## Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/valley/blackcloud.git
-cd blackcloud
-
-# Install in editable mode
-pip install -e .
-
-# Or install with dev dependencies
-pip install -e ".[dev]"
-```
+ComingSoon101010101
+Updating 
 
 ---
 
